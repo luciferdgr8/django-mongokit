@@ -1,5 +1,5 @@
 
-ngoKit (MongoDB) backend for Django.
+# mongoKit (MongoDB) backend for Django.
 """
 
 from mongokit import Connection
